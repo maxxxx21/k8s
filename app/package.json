@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app to show container IP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "os": "^0.1.1"
+  }
+}
